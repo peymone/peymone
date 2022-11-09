@@ -1,5 +1,6 @@
+<p align="center"><img src="./name.png"></p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=249EF7&center=true&vCenter=true&width=435&lines=Junior+Backend+developer;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=539BF5&center=true&vCenter=true&width=435&lines=Juniour+backend+developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 ``` 
@@ -15,6 +16,3 @@ CASSIDY = {
     'funFact': "There are two ways to write error-free programs; only the third one works"
 }
 ```
-
-
-
