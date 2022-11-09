@@ -1,16 +1,19 @@
-### Hi there 👋
+<!-- banner with name here --> 
 
-<!--
-**peymone/peymone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+``` 
+CASSIDY = {
+    'pronouns': ('He', 'Him'),
+    'technologies': {
+        'frontEnd': ['HTML', 'CSS'],
+        'backEnd': ['Python', 'Flask'],
+        'databases': ['MySQL', 'SQLite'],
+        'tools': ['Git', 'Docker', 'selenium']
+    },
+    'currentFocus': "Learning BackEnd development to get job",
+    'funFact': "There are two ways to write error-free programs; only the third one works"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
