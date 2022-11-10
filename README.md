@@ -49,7 +49,6 @@ _Here are some parrots from this <a href="https://cultofthepartyparrot.com/">sit
 <img src="https://cultofthepartyparrot.com/parrots/pythonparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" width="30px">
-<img src="https://cultofthepartyparrot.com/guests/thegrokeparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="60px">
 <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30px">
