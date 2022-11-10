@@ -1,5 +1,5 @@
 <p align="center"><img src="./name.png">
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=50 height="50"></h2></p>
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px"></h2></p>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=97CA00&center=true&vCenter=true&width=500&lines=Probably+Junior+Backend+developer;Trying+to+overcome+laziness+every+day;and+win%2C+sometimes..." alt="Typing SVG" /></a></p>
 
@@ -14,9 +14,9 @@
 
 ---
 
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" align="right" width="250px" height="300px">
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" align="right" width="300px" height="350px">
 
-_Technical support specialist at <a href="https://www.evraz.com/en/">Evraz</a> now<img src="https://media.giphy.com/media/3ov9k7A4giH2V5S8mc/giphy.gif" width="35x">_
+_Technical support specialist at <a href="https://www.evraz.com/en/">Evraz</a> now<img src="https://media.giphy.com/media/3ov9k7A4giH2V5S8mc/giphy.gif" width="35px">_<br>
 _But... I'm looking for escape_
 
 <h2>Some of my stats <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="40px"></h2>
@@ -25,10 +25,10 @@ _But... I'm looking for escape_
 CASSIDY = {
     pronouns: ('He', 'Him'),
     'technologies': {
-        'frontEnd': [HTML, CSS],
-        'backEnd': [Python, Flask],
-        'databases': [MySQL, SQLite],
-        'tools': [Git, Docker, selenium]
+        'frontEnd': ['HTML', 'CSS'],
+        'backEnd': ['Python', 'Flask'],
+        'databases': ['MySQL', 'SQLite'],
+        'tools': ['Git', 'Docker', 'selenium']
     },
     'currentFocus': "Learning BackEnd development to get a job",
     'funFact': "There are two ways to write error-free programs; only the third one works"
@@ -37,9 +37,9 @@ CASSIDY = {
 
 <p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=peymone&show_icons=true&hide_title=true&title_color=97CA00&icon_color=97CA00&include_all_commits=true&count_private=true&theme=trasparent" width="46%">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=peymone&show_icons=true&hide_title=true&title_color=97CA00&icon_color=97CA00&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true" width="46%">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peymone&layout=compact&hide_title=true&theme=trasparent" width="49%">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peymone&layout=compact&hide_title=true&bg_color=00000000&hide_border=true" width="49%">
 
 </p>
 
