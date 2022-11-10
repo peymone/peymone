@@ -46,8 +46,8 @@ CASSIDY = {
 ---
 _Here are some parrots from this <a href="https://cultofthepartyparrot.com/">site</a>_
 <p>
-<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="30px">
-<img src="https://cultofthepartyparrot.com/parrots/hd/gentlemanparrot.gif" width="30px">
+<img src="https://cultofthepartyparrot.com/parrots/pythonparrot.gif" width="30px">
+<img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/guests/thegrokeparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="60px">
@@ -71,10 +71,7 @@ _Here are some parrots from this <a href="https://cultofthepartyparrot.com/">sit
 <img src="https://cultofthepartyparrot.com/parrots/metalparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/guests/hd/trollparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/hd/headbangingparrot.gif" width="30px">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrotnotfound.gif" width="30px">
+<img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/hd/kindasusparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/hd/sidewaysparrot.gif" width="30px">
-<img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="30px">
-<img src="https://cultofthepartyparrot.com/parrots/pythonparrot.gif" width="30px">
-<img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" width="30px">
 </p>
