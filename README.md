@@ -23,7 +23,7 @@ _But... I'm looking for escape_
 
 ``` 
 CASSIDY = {
-    pronouns: ('He', 'Him'),
+    'pronouns': ('He', 'Him'),
     'technologies': {
         'frontEnd': ['HTML', 'CSS'],
         'backEnd': ['Python', 'Flask'],
