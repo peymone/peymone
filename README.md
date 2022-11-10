@@ -56,7 +56,6 @@ _Here are some parrots from this <a href="https://cultofthepartyparrot.com/">sit
 <img src="https://cultofthepartyparrot.com/guests/hd/batparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/hd/vikingparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/hd/ripparrot.gif" width="30px">
-<img src="https://cultofthepartyparrot.com/parrots/hd/yosemitesamparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/hd/covid19parrot.gif" width="30px">
@@ -70,8 +69,6 @@ _Here are some parrots from this <a href="https://cultofthepartyparrot.com/">sit
 <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/metalparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/guests/hd/trollparrot.gif" width="30px">
-<img src="https://cultofthepartyparrot.com/parrots/hd/headbangingparrot.gif" width="30px">
-<img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/hd/kindasusparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/hd/sidewaysparrot.gif" width="30px">
 </p>
