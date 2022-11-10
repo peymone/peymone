@@ -63,7 +63,6 @@ _Here are some parrots from this <a href="https://cultofthepartyparrot.com/">sit
 <img src="https://cultofthepartyparrot.com/parrots/hd/thefastestparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/guests/hd/gumiparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/hd/sneezyparrot.gif" width="30px">
-<img src="https://cultofthepartyparrot.com/parrots/dizzyparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="30px">
 <img src="https://cultofthepartyparrot.com/parrots/metalparrot.gif" width="30px">
