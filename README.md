@@ -71,6 +71,5 @@ _Here are some parrots from this <a href="https://cultofthepartyparrot.com/">sit
 <img src="https://cultofthepartyparrot.com/parrots/hd/sidewaysparrot.gif" width="30px">
 </p>
 
-<!--
-![snake gif](https://github.com/peymone/peymone/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
-![snake gif](https://github.com/peymone/peymone/blob/output/github-contribution-grid-snake.gif#gh-dark-mode-only)
+
+![snake gif](https://github.com/peymone/peymone/blob/output/github-contribution-grid-snake.gif)
