@@ -14,13 +14,21 @@
 
 ---
 
-
-
-
 _Currently unemployed. Waiting for your offers with big salaries <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29jdDJyYXM4dDZ0eGV0ZnU4OGpuMnd0YjJnYW9pdHR0dmFzN2VnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZOlWCtwzAJNWmRTIvm/giphy.gif" width="80px">_<br>
 _Well, or at least give me some money for food..._ 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q513NEGR)
+
+_You can see my latest projects in the pins below. Or, if you're in a hurry, here they are:_
+
+* _Microservice architecture overview with REST API and JWT: https://github.com/peymone/rest-auth_
+* _Review of the work of the proxy server, application server and python web application bundle: https://github.com/peymone/custom-wsgi_
+* _Local chat with TCP sockets and encryption: https://github.com/peymone/local-chat_
+
+<br>
+
+```Why so little? Besides programming there are also games and food. Speaking of food, the link to donations is above```
+
 
 
 <h2>Some of my stats: <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="40px"></h2>
@@ -39,8 +47,44 @@ MyStats = {
 }
 ```
 
-<p>
+<details>
+  <summary>Want a prove? Here you are:</summary><br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=peymone&show_icons=true&hide_title=true&title_color=97CA00&icon_color=97CA00&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true" width="46%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peymone&show_icons=true&hide_title=true&title_color=97CA00&icon_color=97CA00&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true" width="35%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peymone&layout=compact&hide_title=true&bg_color=00000000&hide_border=true" width="30%">
+  <br><br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peymone&layout=compact&hide_title=true&bg_color=00000000&hide_border=true" width="49%">
+  <details>
+  <summary>Don't look. Really.</summary><br>
+   
+   **_NERD XD_**
+   <p>
+       <img src="https://cultofthepartyparrot.com/parrots/pythonparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="60px">
+       <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/guests/hd/batparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/parrots/hd/vikingparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/parrots/hd/ripparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/parrots/hd/covid19parrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/parrots/hd/everythingsfineparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/parrots/dabparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/parrots/hd/thefastestparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/guests/hd/gumiparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/parrots/hd/sneezyparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/parrots/metalparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/guests/hd/trollparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/parrots/hd/kindasusparrot.gif" width="30px">
+       <img src="https://cultofthepartyparrot.com/parrots/hd/sidewaysparrot.gif" width="30px">
+    
+  </details>
+  
+</details>
+
+
