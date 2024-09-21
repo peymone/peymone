@@ -25,7 +25,7 @@ _Well, or at least give me some money for food..._
 
 
 <h2>Some of my stats: <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="40px"></h2>
-<!-- <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" align="right" width="300px" height="350px"> -->
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" align="right" width="300px" height="350px">
 
 ``` 
 MyStats = {
