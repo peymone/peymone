@@ -22,7 +22,7 @@ _Well, or at least give me some money for food..._
 _You can see my latest projects in the pins below. Or, if you're in a hurry, here they are:_
 
 * _Microservice architecture overview with REST API and JWT: https://github.com/peymone/rest-auth_
-* _Review of the work of the proxy server, application server and python web application bundle: https://github.com/peymone/custom-wsgi_
+* _Learning how to work a proxy server with python WSGI application: https://github.com/peymone/custom-wsgi_
 * _Local chat with TCP sockets and encryption: https://github.com/peymone/local-chat_
 
 <br>
