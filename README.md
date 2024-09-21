@@ -18,10 +18,9 @@
 
 
 _Currently unemployed. Waiting for your offers with big salaries <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29jdDJyYXM4dDZ0eGV0ZnU4OGpuMnd0YjJnYW9pdHR0dmFzN2VnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZOlWCtwzAJNWmRTIvm/giphy.gif" width="80px">_<br>
-_Well, or at least give me some money for food..._
+_Well, or at least give me some money for food..._ 
 
-
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q513NEGR)
 
 
 <h2>Some of my stats: <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="40px"></h2>
