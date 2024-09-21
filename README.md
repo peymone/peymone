@@ -45,15 +45,11 @@ MyStats = {
 ```
 
 <details>
-  <summary>Want a prove? Here you are:</summary>
+  <summary>Want a prove? Here you are:</summary><br>
 
-  <table>
-       <tr>
-           <td><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/643bfe39e2725773748f05b9?variant=dark" alt="roadmap.sh" width="250px" align="left"/></a></td>
-           <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=peymone&show_icons=true&hide_title=true&title_color=97CA00&icon_color=97CA00&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true" object-fit=fill>
-           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peymone&layout=compact&hide_title=true&bg_color=00000000&hide_border=true" object-fit=fill><br></td>
-        </tr>
-  </table>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/643bfe39e2725773748f05b9?variant=dark" alt="roadmap.sh" width="250px" align="left"/></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peymone&show_icons=true&hide_title=true&title_color=97CA00&icon_color=97CA00&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true" align=right>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peymone&layout=compact&hide_title=true&bg_color=00000000&hide_border=true" align=right>
 
   <details>
   <summary>Don't look. Really.</summary><br>
