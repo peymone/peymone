@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/github/followers/peymone?color=yellow&logo=Opsgenie&logoColor=yellow&style=for-the-badge" alt="">
     <img src="https://img.shields.io/github/stars/peymone?color=green&logo=Apache%20Spark&logoColor=green&style=for-the-badge" alt="Total stars on GitHub">
     <a href="https://t.me/neitendo"><img src="https://img.shields.io/static/v1?label=Telegram&message=link&style=for-the-badge&l&logo=telegram&color=blue"></a>
-    <a href="https://vk.com/cassidy_bell"><img src="https://img.shields.io/static/v1?label=vk&message=link&style=for-the-badge&logo=vk&logoColor=lueviolet&color=violet"></a>
 </p>
 
 ---
@@ -29,8 +28,6 @@ _You can see my latest projects in the pins below. Or, if you're in a hurry, her
 
 ```Why so little? Besides programming there are also games and food. Speaking of food, the link to donations is above```
 
-
-
 <h2>Some of my stats: <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="40px"></h2>
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" align="right" width="300px" height="350px">
 
@@ -48,11 +45,15 @@ MyStats = {
 ```
 
 <details>
-  <summary>Want a prove? Here you are:</summary><br>
+  <summary>Want a prove? Here you are:</summary>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peymone&show_icons=true&hide_title=true&title_color=97CA00&icon_color=97CA00&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true" width="45%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peymone&layout=compact&hide_title=true&bg_color=00000000&hide_border=true" width="45%">
-  <br><br>
+  <table>
+       <tr>
+           <td><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/643bfe39e2725773748f05b9?variant=dark" alt="roadmap.sh" width="250px" align="left"/></a></td>
+           <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=peymone&show_icons=true&hide_title=true&title_color=97CA00&icon_color=97CA00&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true" object-fit=fill>
+           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peymone&layout=compact&hide_title=true&bg_color=00000000&hide_border=true" object-fit=fill><br></td>
+        </tr>
+  </table>
 
   <details>
   <summary>Don't look. Really.</summary><br>
