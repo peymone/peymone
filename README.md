@@ -37,7 +37,8 @@ MyStats = {
     'technologies': {
         'Python': ['Flask', 'FastAPI', 'SQLAlchemy', 'Alembic'],
         'DataBase': ['SQLitye', 'PostgreSQL'],
-        'tools': ['Git', 'Docker']
+        'Testing': ['UnitTest'],
+        'DevOps': ['Git', 'Docker']
     },
     'currentFocus': "Learning BackEnd development to get a job. Please, take me",
     'funFact': "There are two ways to write error-free programs; only the third one works"
