@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/followers/peymone?color=yellow&logo=Opsgenie&logoColor=yellow&style=for-the-badge" alt="">
     <img src="https://img.shields.io/github/stars/peymone?color=green&logo=Apache%20Spark&logoColor=green&style=for-the-badge" alt="Total stars on GitHub">
     <a href="https://t.me/neitendo"><img src="https://img.shields.io/static/v1?label=Telegram&message=link&style=for-the-badge&l&logo=telegram&color=blue"></a>
-    <a href="https://img.shields.io/badge/roadmap?link=https%3A%2F%2Froadmap.sh%2Fu%2Fneitendo"><img src="https://img.shields.io/badge/link-blue?style=for-the-badge&logo=roadmapdotsh&label=roadmap.sh&labelColor=black&color=white"></a>
+    <a href="https://roadmap.sh/u/neitendo"><img src="https://img.shields.io/badge/link-blue?style=for-the-badge&logo=roadmapdotsh&label=roadmap.sh&labelColor=black&color=white"></a>
 </p>
 
 ---
