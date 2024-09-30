@@ -35,11 +35,13 @@ _You can see my latest projects in the pins below. Or, if you're in a hurry, her
 ``` 
 MyStats = {
     'pronouns': ('He', 'Him'),
+    'architecture': ['Monolitic', 'Microservices'],
+    'API': ['REST'],
+    'Auth': ['JWT'],
     'technologies': {
-        'Python': ['Flask', 'FastAPI', 'SQLAlchemy', 'Alembic'],
+        'Python': ['UnitTest', 'SQLAlchemy', 'FastAPI', 'Flask'],
         'DataBase': ['SQLitye', 'PostgreSQL'],
-        'Testing': ['UnitTest'],
-        'DevOps': ['Git', 'GitHub Actions', 'Docker']
+        'CICD': ['Git', 'Docker', 'GitHub Actions']
     },
     'currentFocus': "Learning BackEnd development to get a job. Please, take me",
     'funFact': "There are two ways to write error-free programs; only the third one works"
