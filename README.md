@@ -22,8 +22,11 @@ _Well, or at least give me some money for food..._
 _You can see my latest projects in the pins below. Or, if you're in a hurry, here they are:_
 
 * _Microservice architecture overview with REST API and JWT: https://github.com/peymone/rest-auth_
+* _Tutorial and examples of how to use gRPC: https://github.com/peymone/grpc-hell_
 * _Learning how to work a proxy server with python WSGI application: https://github.com/peymone/custom-wsgi_
 * _Local chat with TCP sockets and encryption: https://github.com/peymone/local-chat_
+
+_But, you know, just look for yourself: https://github.com/peymone?tab=repositories_
 
 <br>
 
@@ -36,10 +39,10 @@ _You can see my latest projects in the pins below. Or, if you're in a hurry, her
 MyStats = {
     'pronouns': ('He', 'Him'),
     'architecture': ['Monolitic', 'Microservices'],
-    'API': ['REST'],
+    'API': ['REST', 'gRPC'],
     'Auth': ['JWT'],
     'technologies': {
-        'Python': ['UnitTest', 'SQLAlchemy', 'FastAPI', 'Flask'],
+        'Python': ['Pytest', 'UnitTest', 'SQLAlchemy', 'FastAPI', 'Flask'],
         'DataBase': ['SQLitye', 'PostgreSQL'],
         'CICD': ['Git', 'Docker', 'GitHub Actions']
     },
