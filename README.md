@@ -23,6 +23,7 @@ _You can see my latest projects in the pins below. Or, if you're in a hurry, her
 
 * _Microservice architecture overview with REST API and JWT: https://github.com/peymone/rest-auth_
 * _Tutorial and examples of how to use gRPC: https://github.com/peymone/grpc-hell_
+* _Tutorial and examples of how to use SOAP: https://github.com/peymone/soap-hell_
 * _Learning how to work a proxy server with python WSGI application: https://github.com/peymone/custom-wsgi_
 * _Local chat with TCP sockets and encryption: https://github.com/peymone/local-chat_
 
