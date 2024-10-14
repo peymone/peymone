@@ -43,7 +43,7 @@ MyStats = {
     'API': ['REST', 'gRPC', 'SOAP'],
     'Auth': ['JWT'],
     'technologies': {
-        'Python': ['Pytest', 'UnitTest', 'SQLAlchemy', 'FastAPI', 'Flask'],
+        'Python': ['Django', 'FastAPI', 'Flask', 'SQLAlchemy', 'Pytest', 'UnitTest'],
         'DataBase': ['SQLitye', 'PostgreSQL'],
         'CICD': ['Git', 'Docker', 'GitHub Actions']
     },
