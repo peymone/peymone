@@ -21,6 +21,7 @@ _Well, or at least give me some money for food..._
 
 _You can see my latest projects in the pins below. Or, if you're in a hurry, here they are:_
 
+* _Real time chat application with websockets and authorization: https://github.com/peymone/web-chat_
 * _Microservice architecture overview with REST API and JWT: https://github.com/peymone/rest-auth_
 * _Tutorial and examples of how to use gRPC: https://github.com/peymone/grpc-hell_
 * _Tutorial and examples of how to use SOAP: https://github.com/peymone/soap-hell_
