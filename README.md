@@ -41,7 +41,7 @@ _But, you know, just look for yourself: https://github.com/peymone?tab=repositor
 MyStats = {
     'pronouns': ('He', 'Him'),
     'architecture': ['Monolitic', 'Microservices'],
-    'API': ['REST', 'gRPC', 'SOAP'],
+    'Protocols_API': ['Rest', 'gRPC', 'SOAP', 'WebSocket', 'Socket']
     'Auth': ['JWT'],
     'technologies': {
         'Python': ['Django', 'FastAPI', 'Flask', 'SQLAlchemy', 'Pytest', 'UnitTest'],
