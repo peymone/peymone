@@ -41,11 +41,12 @@ _But, you know, just look for yourself: https://github.com/peymone?tab=repositor
 MyStats = {
     'pronouns': ('He', 'Him'),
     'architecture': ['Monolitic', 'Microservices'],
-    'Protocols_API': ['Rest', 'gRPC', 'SOAP', 'WebSocket', 'Socket']
+    'protocols': ['gRPC', 'SOAP', 'WebSocket', 'Socket'],
+    'API': ['Rest'],
     'Auth': ['JWT'],
     'technologies': {
-        'Python': ['Django', 'FastAPI', 'Flask', 'SQLAlchemy', 'Pytest', 'UnitTest'],
-        'DataBase': ['SQLitye', 'PostgreSQL'],
+        'Python': ['Django', 'FastAPI', 'Flask', 'SQLAlchemy', 'Alembic', 'Pytest', 'UnitTest'],
+        'DataBase': ['SQLite', 'PostgreSQL'],
         'CICD': ['Git', 'Docker', 'GitHub Actions']
     },
     'currentFocus': "Learning BackEnd development to get a job. Please, take me",
